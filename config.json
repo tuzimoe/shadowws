@@ -1,10 +1,10 @@
 {
-  "server": "test1-ssws.a3c1.starter-us-west-2.openshiftapps.com",
+  "server": "tuzigo-tuzigo.1d35.starter-us-east-1.openshiftapps.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 5000,
-  "password": "onplus",
+  "remote_port": 443,
+  "password": "niconiconi",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
